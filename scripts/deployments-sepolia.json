@@ -1,0 +1,8 @@
+{
+  "LendToken": "0xc3d4462c176c4e6ebe478bcb9f0e2880c87f703a",
+  "CollateralToken": "0x1c4ae7e2f1908afbe567cab90fbd18727347cd0c",
+  "Oracle": "0xd1348ffc13b0fa0aba44a6d330a474e148efe8ca",
+  "Router": "0xfc18d97a7b3410577591ea6cff0e8efd632a1e87",
+  "PledgeProxy": "0xd1a7cc4b625bfad60bd3ca5e88489d5fafc17468",
+  "PledgeImpl": "0x156b21d06bc29bff398fad78bd45dd4bd24dc73c"
+}
